@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PMIU_lab7</string>
+    <string name="title_activity_insert">InsertActivity</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_phone">Enter your phone</string>
+    <string name="error_message">Invalid Data</string>
+    <string name="next">Next</string>
+</resources>
